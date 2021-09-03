@@ -6,7 +6,7 @@ using namespace std;
 int main ()
 {
     char str[50];
-    int len;
+    int length;
     cout << "Enter an array or string : ";
     gets(str);
     length = strlen(str);
