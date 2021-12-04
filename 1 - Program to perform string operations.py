@@ -3,8 +3,6 @@
 # Date of Creation - 04-12-2021
 # Last Modified - 04-12-2021
 
-from typing import final
-
 string1 = input("Enter first name: ")
 string2 = input("Enter last name: ")
 
